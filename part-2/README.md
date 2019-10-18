@@ -42,7 +42,7 @@ kubectl create -f k8s-app-deployment.yaml
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/flask-microservice-2.png?raw=true "flask-microservice-2")
 
 # 2) # ECS :- 
-In this , I create ECR adn ECS setup using "Terraform". So our all the deplyment is only one click process.
+In this , I create ECR and ECS setup using "Terraform". So our all the deplyment is only one click process.
 # Note:- This Demo shows only single mirco-service istallation.
 Please check part-4 for terraform-ECR/ECS setup.
 
