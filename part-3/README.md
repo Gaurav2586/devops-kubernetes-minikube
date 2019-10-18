@@ -51,9 +51,9 @@ Once you have all the prerequisites in place, you can begin the actual steps to 
 ```
 
 
-# Explaining NO.8 from above setps :- 
+## Explaining NO.8 from above setps :- 
 
-# Build the CI/CD pipeline in Spinnaker
+## Build the CI/CD pipeline in Spinnaker
 ```
 1. Create application
 2. Create pipeline
