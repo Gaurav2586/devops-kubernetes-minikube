@@ -1,8 +1,8 @@
 # Part-3
   
-# challange :-
+# Challange :-
 
-# Describe briefly how will you provide CI/CD pipeline for the microservices
+Describe briefly how will you provide CI/CD pipeline for the microservices
 
 # Solution :-
 ```
