@@ -21,7 +21,7 @@ task to microservice 2 which will just return reverse of the string
 3:- service-2 is callable using service-1 as per challange demand.
 ```
 
-## Result Screenshot :-
+## Result Screenshot (from pod) :-
 
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/pods-final-sceenshot.png?raw=true "pods-final-sceenshot")
 
