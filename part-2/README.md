@@ -14,7 +14,7 @@ orchestrator
 
 As per the challange I need to choose any one option , but I choose two option to show some terraform skill from my end . I hope you like it .
 ## 1) Minikube , Under this task !
-I created part-2 folder which is having three folder.
+This task belongs to part-2 folder which is having three folder.
 
 ```
 1st-folder:- microservice-1-Dockerfile >> Dockerfile,micro-1.py,requirements.txt
