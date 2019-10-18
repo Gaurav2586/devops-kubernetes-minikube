@@ -77,7 +77,7 @@ Once you have all the prerequisites in place, you can begin the actual steps to 
 
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/Spinnaker-staging.png?raw=true "Spinnaker-staging")
 
-## Spinnaker-Prd looks :-
+## Spinnaker-Prd looks:-
 
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/Spinnaker-prod.png?raw=true "Spinnaker-prod")
 
