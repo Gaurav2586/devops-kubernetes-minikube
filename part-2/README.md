@@ -41,7 +41,7 @@ kubectl create -f k8s-app-deployment.yaml
 
 # 2) # ECS
 In this , I create ECR adn ECS setup using "Terraform". So our all the deplyment is only one click process.
-# note:- This Demo shows only single mirco-service istallation.
+# Note:- This Demo shows only single mirco-service istallation.
 Please check part-4 for terraform-ECR/ECS setup.
 
   
