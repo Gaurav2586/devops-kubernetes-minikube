@@ -25,7 +25,7 @@ task to microservice 2 which will just return reverse of the string
 
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/pods-final-sceenshot.png?raw=true "pods-final-sceenshot")
 
-# Quick look:-
+# Quick look :-
 ## micro-1.py 
 
 ```
