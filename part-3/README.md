@@ -1,10 +1,10 @@
 # Part-3
   
-# Challange :-
+## Challange :-
 
 Describe briefly how will you provide CI/CD pipeline for the microservices
 
-# Solution :-
+## Solution :-
 ```
 Architecting a CI/CD pipeline for container and microservice-based applications
 
@@ -23,7 +23,7 @@ Jenkins is a continuous integration platform (open source)
 
 Steps to setup a pipeline :- 
 
-# Prerequisites
+## Prerequisites
 ```
 A running Kubernetes cluster. If you don’t already have one running, use eksctl to get an EKS cluster up and running with one command.
 At least eight GB of free memory and two vCPU in the Kubernetes cluster for Spinnaker microservices. An m5.large instance should do the job.
@@ -35,7 +35,7 @@ A Docker registry account. If you don’t have one, you can use Amazon ECR, as w
 An authentication provider (LDAP/SAML/Oauth2). In this post we will be using Active Directory (LDAP) authentication. If you don’t already have one, follow the AWS Managed Microsoft AD documentation.
 ```
 
-# Steps
+## Steps
 ```
 Once you have all the prerequisites in place, you can begin the actual steps to set up the pipeline. We will go through each of these steps in detail; here’s an overview of what we’ll be doing:
 
@@ -73,11 +73,11 @@ Once you have all the prerequisites in place, you can begin the actual steps to 
 
 ```
 
-# Spinnaker-staging looks :-
+## Spinnaker-staging looks :-
 
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/Spinnaker-staging.png?raw=true "Spinnaker-staging")
 
-# Spinnaker-Prd looks :-
+## Spinnaker-Prd looks :-
 
 ![Screenshot](https://github.com/Gaurav2586/saloodo/blob/master/screenshot/Spinnaker-prod.png?raw=true "Spinnaker-prod")
 
